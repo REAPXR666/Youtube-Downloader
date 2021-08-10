@@ -1,0 +1,4 @@
+*REQUIREMENTS
+pip install youtube_dl
+pip install youtube
+pip install pytube
